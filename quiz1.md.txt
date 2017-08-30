@@ -1,0 +1,11 @@
+1- SELECT * FROM transactions
+2- UPDATE
+3-UPDATE world SET language= 'English'  WHERE country= country; 
+4- ALTER TABLE
+5- INSERT INTO world(country, continent, population, area, gdp, language)
+VALUES('America', '1', '1000000', '9999999999', 'tremendous');
+6- WHERE AND HAVING
+7-SELECT country FROM world
+WHERE population <= 10000000;
+
+
